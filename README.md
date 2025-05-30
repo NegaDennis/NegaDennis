@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm currently working on projects as proof of experience in data analytics and data science. In my repositories, you should be seeing projects related to these topics.
 
-The projects should be furnished gradually with detailed documentations and explanations. Be noted, some projects are direct copies of work during my Master's or pursue of coding camps. Some might use private/non-disclosurable data and will omit this part from the repositories. I will try to include if I am sure the data can be shared.
+The projects should be furnished gradually with detailed documentations and explanations. Be noted, some projects might be using privileged data and therefore, will not have the data available.
 
-For the near future, I intend to refine and upload the following projects:
-1. Data analytics: descriptive + predicitve (with visual; probably on R or Python).
-2. Data science: Regressions, classification, clustering, basket analysis, word-cloud, computer vision (1 of each; on Python).
+For non-technical readers, I will include summaries and highlights in the README file of each repository. You can simply scroll down and read!
+For technical and curious readers, I include my codes and detailed explaination in form of .ipynb files which available in the 'codes' folder of each repo.
