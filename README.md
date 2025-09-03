@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm currently working on projects as proof of experience in data analytics and data science. In my repositories, you should be seeing projects related to these topics.
+I do data science and data analytics :) I upload projects here to practice collaboration and showcase my skills.
 
 The projects should be furnished gradually with detailed documentations and explanations. Be noted, some projects might be using privileged data and therefore, will not have the data available.
 
 For non-technical readers, I will include summaries and highlights in the README file of each repository. You can simply scroll down and read!
-For technical and curious readers, I include my codes and detailed explaination in form of .ipynb files which available in the 'codes' folder of each repo.
+
+For technical readers, I include my codes and detailed explaination in form of .ipynb files which available in the 'codes' folder of each repo.
+
+How to reach me: Discord username: poupou109
